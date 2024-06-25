@@ -1,1 +1,1 @@
-Querido diario, hoy estoy usando git
+Querido diario, hoy estoy usando git y también github 
